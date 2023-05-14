@@ -7,4 +7,6 @@ streamlit.text('🥑🍞Hard-Boiled Free_Range Egg')
 
 import pandas as pd
 
+my_fruit_list = pd.read_csv etc.
+
 
