@@ -5,8 +5,7 @@ streamlit.text('🥣 Omega 3 and Blurberry Oatmeal')
 streamlit.text('🥗 Kale, Spinach & Rocket Smoothie')
 streamlit.text('🥑🍞Hard-Boiled Free_Range Egg')
 
-import pandas as pd
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
-my_fruit_list = pd.read_csv etc.
 
 
